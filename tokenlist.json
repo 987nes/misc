@@ -1,0 +1,21 @@
+{
+  "name": "987NES Token List",
+  "logoURI": "https://raw.githubusercontent.com/987nes/misc/main/987NES_512.png",
+  "keywords": ["987NES", "meme", "speculation"],
+  "timestamp": "2025-09-19T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x4429d5ff70d6e17fb36eb15b70322e6b12a9fbc4",
+      "name": "987NES",
+      "symbol": "NES",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/987nes/misc/main/987NES_512.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
