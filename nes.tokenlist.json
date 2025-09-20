@@ -1,0 +1,28 @@
+{
+  "name": "987NES Token List (Official)",
+  "logoURI": "https://raw.githubusercontent.com/987nes/misc/main/987NES_256.png",
+  "keywords": ["987NES", "NES", "swiss", "meme"],
+  "timestamp": "2025-09-20T13:00:00+02:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "meme": {
+      "name": "Meme",
+      "description": "Community-driven meme token"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x4429D5ff70d6e17Fb36EB15b70322E6B12a9fBc4",
+      "name": "987NES",
+      "symbol": "NES",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/987nes/misc/main/987NES_256.png",
+      "tags": ["meme"]
+    }
+  ]
+}
