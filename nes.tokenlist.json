@@ -18,7 +18,7 @@
     {
       "chainId": 1,
       "address": "0x4429D5ff70d6e17Fb36EB15b70322E6B12a9fBc4",
-      "name": "987NES",
+      "name": "NineEightSeven",
       "symbol": "NES",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/987nes/misc/main/987NES_256.png",
@@ -26,3 +26,4 @@
     }
   ]
 }
+
