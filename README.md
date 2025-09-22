@@ -48,10 +48,10 @@ If the PDF is updated, keep the filename stable and replace the file in-place to
 ## Logo / Assets
 
 - **Explorer icon (required by Etherscan):** SVG 32×32 (transparent)  
-  `https://raw.githubusercontent.com/987nes/misc/main/987NES-logo32.svg`
+  https://raw.githubusercontent.com/987nes/misc/main/987NES-logo32.svg
 
 - **App/wallet icon (recommended):** PNG 512×512  
-  `https://raw.githubusercontent.com/987nes/misc/main/987NES_512.png`
+  https://raw.githubusercontent.com/987nes/misc/main/987NES_512.png
 
 > Tip: The 512×512 PNG is recommended for token lists, wallets, dashboards, and exchanges. Keep file size reasonable.
 
@@ -61,7 +61,7 @@ If the PDF is updated, keep the filename stable and replace the file in-place to
 
 - **Token list JSON (RAW):** `https://raw.githubusercontent.com/987nes/misc/main/tokenlist.json`  
 - **One‑click import link (Ethereum):**  
-  `https://app.uniswap.org/#/tokens/ethereum?importListUrl=https://raw.githubusercontent.com/987nes/misc/main/tokenlist.json`
+`https://app.uniswap.org/#/tokens/ethereum?importListUrl=https://raw.githubusercontent.com/987nes/misc/main/tokenlist.json
 
 When you update the list, bump the `version` (semver) and the `timestamp` in `tokenlist.json`.
 
@@ -116,8 +116,8 @@ blockchains/ethereum/assets/0x4429d5fF70D6e17fB36eB15b70322e6B12A9fBc4/
 - **Project Sector:** Blockchain / Cryptocurrency  
 - **Project Description (≤300 chars):**  
   *“987NES is a Swiss Ethereum‑based token designed as a cultural and community experiment. The project emphasizes transparency, education, and entertainment while reflecting the speculative nature of digital assets.”*  
-- **Logo URL (SVG 32×32):** `https://raw.githubusercontent.com/987nes/misc/main/987NES-logo32.svg`  
-- **Whitepaper URL:** `https://raw.githubusercontent.com/987nes/misc/main/987NES-whitepaper.pdf`
+- **Logo URL (SVG 32×32):** https://raw.githubusercontent.com/987nes/misc/main/987NES-logo32.svg  
+- **Whitepaper URL:** https://raw.githubusercontent.com/987nes/misc/main/987NES-whitepaper.pdf
 
 ---
 
