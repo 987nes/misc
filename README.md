@@ -11,10 +11,10 @@ It is not built for utility or governance, but as a **laboratory** to observe an
 ---
 
 ## 🔗 Tokenomics
-•	Name: NineEightSeven.
-•	Symbole : NES.
-•	Total supply: 987,654,321.
-•	Blockchain : Solana.
+•	Name: NineEightSeven
+•	Symbole : NES
+•	Total supply: 987,654,321
+•	Blockchain : Solana
 •	Contract address: DPQdhJF7MtwjFKwzg8QkWQcBF8aoJHDpA4gpCYvuFu4t
 •	NES is burnable.
 •	Allocation: 
