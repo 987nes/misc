@@ -1,4 +1,4 @@
-# 987NES — Official Resources
+# 987NES - Official Resources
 
 **Project:** 987NES  
 **Token:** NineEightSeven (NES)  
