@@ -4,7 +4,7 @@
 **Token:** NineEightSeven (NES)  
 **Chain:** Solana  
 **CA:** `DPQdhJF7MtwjFKwzg8QkWQcBF8aoJHDpA4gpCYvuFu4t`  
-**Launch:** October 16, 2025 — Fribourg, Switzerland  
+**Launch:** October 16, 2025 - Fribourg, Switzerland  
 
 ---
 
