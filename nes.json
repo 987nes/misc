@@ -3,15 +3,11 @@
   "symbol": "NES",
   "description": "987NES - 100% speculative, 0% shame",
   "image": "https://raw.githubusercontent.com/987nes/misc/main/987NES_512.png",
+  "external_url": "https://987nes.com",
   "extensions": {
     "website": "https://987nes.com",
     "twitter": "https://x.com/987_nes",
     "telegram": "https://t.me/NES_987",
-    "explorer": "https://solscan.io/token/H3BYLh6N5BTg8hExL6X7Y4bjAL2RJTB3ANEJXSqLLp5W"
+    "explorer": "https://solscan.io/token/DPQdhJF7MtwjFKwzg8QkWQcBF8aoJHDpA4gpCYvuFu4t"
   }
 }
-
-
-
-
-
