@@ -27,6 +27,7 @@ The whitepaper is published as a web page (EN / FR / ES, printable as PDF from t
 | Tax | 0% |
 | Blacklist | None |
 | LP | Locked via TeamFinance |
+| Team allocation (20%) | Locked until October 16, 2027 via Streamflow |
 
 ---
 
@@ -50,8 +51,8 @@ All wallets are public and fully traceable on Solscan.
 Bot: [@NES987_bot](https://t.me/NES987_bot)  
 8 DEX supported. BUY/SELL/TRANSFER alerts in under 15 seconds. Free for everyone.
 
-**987Track** — X automation agent with multi-AI support  
-GPT-4o, Grok, Gemini, DeepSeek. Currently exclusive to the 987NES ecosystem.  
+**987News** — Crypto news aggregator for Telegram with AI summaries  
+Curated sources, real-time alerts and scheduled digests. Built in-house for the 987NES community.  
 Inquiries: info@987nes.com
 
 ---
