@@ -8,11 +8,11 @@
 
 ---
 
-## Whitepapers
+## Whitepaper
 
-- [Whitepaper EN](987NES-whitepaper-EN-V2.pdf)
-- [Whitepaper FR](987NES-whitepaper-FR-V2.pdf)
-- [Whitepaper ES](987NES-whitepaper-ES-V2.pdf)
+The whitepaper is published as a web page (EN / FR / ES, printable as PDF from the page):
+
+- [987nes.com/whitepaper](https://987nes.com/whitepaper/) — `?lang=en`, `?lang=fr`, `?lang=es`
 
 ---
 
